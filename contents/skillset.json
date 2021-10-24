@@ -1,0 +1,38 @@
+[
+  {
+    "title": "マークアップ・プログラミング言語",
+    "items": [
+      "HTML",
+      "CSS",
+      "SASS (SCSS)",
+      "Markdown",
+      "JavaScript/TypeScript (Node.js)",
+      "PHP",
+      "Dart",
+      "Java",
+      "Ruby",
+      "Go"
+    ]
+  },
+  {
+    "title": "フレームワーク",
+    "items": [
+      "Express",
+      "React (Next.js)",
+      "Vue.js (Nuxt.js)",
+      "Svelte (SvelteKit)",
+      "Laravel",
+      "Flutter",
+      "Ruby on Rails",
+      "Gin"
+    ]
+  },
+  {
+    "title": "その他",
+    "items": [
+      "PostgreSQL",
+      "Heroku",
+      "Firebase"
+    ]
+  }
+]
